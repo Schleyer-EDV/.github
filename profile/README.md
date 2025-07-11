@@ -1,5 +1,5 @@
 [![Website](https://img.shields.io/website?label=www.schleyer-edv.de&style=for-the-badge&url=https%3A%2F%2Fwww.schleyer-edv.de)](https://www.schleyer-edv.de)
-[![German-Host](https://img.shields.io/website?label=www.german-host.io&style=for-the-badge&url=https%3A%2F%2Fwww.german-host.io)](https://www.german-host.io)
+[![German-Host](https://img.shields.io/website?label=www.german-host.eu&style=for-the-badge&url=https%3A%2F%2Fwww.german-host.io)](https://www.german-host.eu)
 [![Reseller-Services](https://img.shields.io/website?label=reseller-services.de&style=for-the-badge&url=https%3A%2F%2Freseller-services.de)](https://reseller-services.de)
 [![Status](https://img.shields.io/website?label=status.schleyer-edv.de&style=for-the-badge&url=https%3A%2F%2Fstatus.schleyer-edv.de)](https://status.schleyer-edv.de)
 [![Twitter Follow](https://img.shields.io/twitter/follow/schleyeredv?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fschleyer-edv&screen_name=schleyeredv)
